@@ -1,5 +1,5 @@
 # Virtuoso AI
-## A web application for generating imaginative images using the DALL-E AI model based on user prompts
+## Virtuoso AI is an innovative platform that leverages OpenAI's DALL-E model to generate imaginative and visually stunning images based on user prompts.
 
 ### 📌 Table of Contents
  * [Features](#features)
@@ -76,7 +76,7 @@
 5. Access the deployed application at its URL.
 
 <a id='snippets'></a>
-### Snippets
+### 📸 Snippets
 - To view more snippets [Click Here]()
 
 <a id="note-on-openai-policy-changes"></a>
