@@ -77,7 +77,8 @@
 
 <a id='snippets'></a>
 ### 📸 Snippets
-- To view more snippets [Click Here]()
+- To view more snippets [Click Here](https://github.com/dwija12903/virtuoso-ai/tree/main/img)
+<img src="https://github.com/dwija12903/virtuoso-ai/blob/main/img/CreatePost-Page.png">
 
 <a id="note-on-openai-policy-changes"></a>
 ### ℹ️ Note on OpenAI Policy Changes
