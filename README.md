@@ -44,12 +44,12 @@
 ### 💻 Technologies Used
 - Backend
   - **Node.js**
-  - **Express.js**: A Node.js Framework, for handling HTTP requests and routes.
-  - **MongoDB**: A NoSQL database used for storing post data.
+  - **Express.js**: Used for handling HTTP requests and routes(A Node.js Framework).
+  - **MongoDB**: Used for storing post data(A NoSQL database).
   - **Mongoose**: used for data modeling and schema validation(for MongoDB).
   - **OpenAI**: An API used for generating images.
 - Frontend
-  - **React**: A JavaScript library for building user interfaces.
+  - **React**: For building user interfaces(A JavaScript library).
   - **React Router**: Used for managing navigation(React Library).
   - **Tailwind CSS**: A CSS framework.
 - Other
